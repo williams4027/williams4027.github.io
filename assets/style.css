@@ -7,3 +7,8 @@ html {
 div {
   margin: 20px 0px;
 }
+
+img.main-img {
+  width: 640px;
+  max-width: 100%;
+}
